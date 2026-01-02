@@ -75,18 +75,6 @@ Ou seja:
 
 ---
 
-## ❗ O Que Está Faltando?
-
-Para avaliar corretamente modelos de decisão, são necessárias abordagens como:
-
-* Uplift Modeling
-* Testes A/B
-* Métricas orientadas a valor e impacto
-* Pensamento causal
-
-Este repositório **não implementa essas técnicas**, mas deixa claro **por que elas são necessárias**.
-
----
 
 ## 📂 Estrutura do Repositório
 
